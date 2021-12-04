@@ -72,11 +72,12 @@ footer {
   main{
     width:100%;
     display:block;
+    padding:1%;
   }
 
   .title{
     width:100%;
     margin-right: 0;
-    padding: 0;
+    padding: 3%;
   }
 }
